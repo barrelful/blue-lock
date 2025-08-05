@@ -34,7 +34,7 @@ On other desktop environments, replace `cinnamon-screensaver-command -l` with yo
 
 ```bash
 git clone https://github.com/yourusername/bluetooth-proximity-lock.git
-cd bluetooth-proximity-lock
+cd blue-lock
 ```
 
 ---
